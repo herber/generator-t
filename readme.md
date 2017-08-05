@@ -8,7 +8,7 @@ This a fork of [sindresorhus's](https://github.com/sindresorhus) [generator-nm](
 ## Install
 
 ```
-$ npm install --global yo generator-nm
+$ npm install --global yo generator-t
 ```
 
 
