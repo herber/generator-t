@@ -12,9 +12,6 @@
   "engines": {
     "node": ">=6"
   },
-  "scripts": {
-    "test": "fyi"
-  },
   "files": [
     "lib"
   ],
