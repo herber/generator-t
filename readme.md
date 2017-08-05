@@ -45,4 +45,4 @@ The `--org` option takes a string value (i.e. `--org=bytes`). All others are boo
 
 MIT © [tobihrbr](https://tobihrbr.com)
 
-Based on [generator-nm](https://github.com/sindresorhus/generator-nm) by [sindresorhus's](https://github.com/sindresorhus). Thanks!
+Based on [generator-nm](https://github.com/sindresorhus/generator-nm) by [sindresorhus](https://github.com/sindresorhus). Thanks!
